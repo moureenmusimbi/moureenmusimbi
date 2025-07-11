@@ -12,7 +12,7 @@
 
 ## 👩🏽‍💻 About Me
 
-I'm a multi-talented **Graphics & Web Developer** with a strong passion for visual branding and user-friendly digital experiences. I help **beauty, tech, and startup brands** stand out through:
+I'm a multi-talented **Graphics & Web Developer** passionate about visual branding and user-focused web design. I help **beauty, tech, and startup brands** stand out through:
 
 - 🎨 Bold, cohesive graphic design
 - 💻 Responsive websites with modern UI/UX
@@ -22,12 +22,21 @@ I'm a multi-talented **Graphics & Web Developer** with a strong passion for visu
 
 ## 🧰 Tech & Tools I Use
 
-| Graphic Design | Web Development | Other |
-|----------------|-----------------|-------|
-| Canva | HTML5, CSS3 | Git & GitHub |
-| Photoshop | JavaScript | WordPress |
-| Illustrator | React.js | Figma |
-| InDesign | TailwindCSS | VS Code |
+<p align="center">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
@@ -52,15 +61,15 @@ I'm a multi-talented **Graphics & Web Developer** with a strong passion for visu
 
 ## 🌱 Currently Learning
 - ⚛️ Advanced React & Next.js
-- 🧩 UI/UX design principles
-- 🔌 APIs & headless CMS
+- 🎨 Advanced UI/UX for product-based businesses
+- 🔌 APIs & headless CMS integration
 
 ---
 
 ## 🤝 Let’s Collaborate
-- 🔹 Branding & website design for startups or creatives  
-- 🔹 Salon or beauty-based digital branding kits  
-- 🔹 Personal websites, portfolios, or business landing pages
+- 🔹 Logo & Brand Kit Design for beauty/tech brands  
+- 🔹 Responsive websites & landing pages  
+- 🔹 Frontend projects & design collaboration
 
 ---
 
