@@ -47,7 +47,7 @@ I'm a multi-talented **Graphics & Web Developer** passionate about visual brandi
 | [🌍 WanderAfric Hub](https://wanderafric.dev) | Travel agency site built on WordPress with booking features and responsive layout. | WordPress, CSS, Elementor |
 | [💅 Beauty Salon Brand Kit](#) | Full identity kit: logo, price card, flyers, IG posts | Illustrator, Canva |
 | [🧑‍💻 Portfolio Website](https://github.com/moureenk/portfolio-site) | Personal portfolio built with React and deployed on GitHub Pages. | React, TailwindCSS, GitHub |
-| [🧑‍💻 Portfolio Website](https://wig-client-site-sage.vercel.app) | Personal portfolio built with React and deployed on GitHub Pages. | React, TailwindCSS, GitHub |
+| [🧑‍💻 Nywele Hair Studio](https://wig-client-site-sage.vercel.app) | Your one-stop shop for wigs, hair extensions, and beauty essentials.. | React, TailwindCSS, GitHub |
 
 ---
 
