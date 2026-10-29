@@ -2,7 +2,7 @@
 <h3 align="center">🎨 Creative Graphics & Web Developer | 💻 Nairobi, Kenya</h3>
 
 <p align="center">
-  <a href="mailto:moureen@example.com"><img src="https://img.shields.io/badge/Email-moureen@example.com-blue?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="mailto:musimbimoureen4@gmail.com"><img src="https://img.shields.io/badge/Email-musimbimoureen4@gmail.com-blue?style=flat&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/moureen-kadenge-199002374"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
   <a href="https://github.com/moureenk"><img src="https://img.shields.io/badge/GitHub-@moureenk-black?style=flat&logo=github"></a>
   <a href="https://moureenportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome"></a>
